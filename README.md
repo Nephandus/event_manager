@@ -1,0 +1,1 @@
+Event manager's a TOP Ruby exercise that involved file operations and some templating and use of an API
